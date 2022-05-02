@@ -1,5 +1,13 @@
 {
-	"files": {
-		"index.js": "b4ef948af04cab133dd625fa7324a64725bc439c221e85cbf53b3e3e828dd356"
-	}
+    "files": {
+        "README.md": "7efb961342ef8e2d1c83990a536dcf47053b0b155ec5de9e2482f5bbe0df06cc",
+        "autoTarget.gif": "88d24a3c31be53fcc7a91b4bbe5278e16e91dcd7a89c1c6a30202bb6ce357eec",
+        "config.json": {
+            "overwrite": false,
+            "hash": "ed5cce04c54f4b1f17048cc5367eaf8b09523034cc843d33f64cf32b35de405a"
+        },
+        "debuffData.json": "ec7954a6a31b21a5fa4400aad22bf4f37ed0d38c1cc5cbf529bb13a969b96cfd",
+        "index.js": "f245bc3cea3b25a57a517246813fe189d305a47aaaa3e381295f26e84f047f09",
+        "module.json": "e3eabf7c6bea75528abf4226e5ce1689637ead4a4e94f248675081fa1e23ff85"
+    }
 }
